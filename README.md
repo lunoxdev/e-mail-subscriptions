@@ -16,3 +16,4 @@ This is a web project developed with [Astro](https://astro.build/) that allows u
 - **Tailwind CSS**: For responsive design and layout.
 - **JavaScript**: For frontend logic, without TypeScript.
 - **Vercel**: For deployment and managing environment variables.
+- **Bun**: For faster JavaScript runtime and package management.
